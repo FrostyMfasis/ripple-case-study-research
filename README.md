@@ -71,7 +71,7 @@ Which is about 0.3% of the global greenhouse gas emissions.
 * Sentbe customers have saved over $25 Million in transaction fees. 
 
 * Ripple is expanding in Dubai, as 20% of their customers are in MENA. 
-* When announcing Ripple expanding to Dubai, Ripple CEO Brad Garlinghouse said on Twitter:
+* When announcing Ripple expanding in Dubai, Ripple CEO Brad Garlinghouse said on Twitter:
 
 >" As I just shared on stage at #DubaiFintechSummit, 
 @Ripple is expanding in Dubai. With 20% of our customers based in MENA and clear regulatory regimes being developed, it’s no surprise that Dubai is emerging as a key global financial hub for crypto innovation to thrive.”
